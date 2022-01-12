@@ -69,7 +69,13 @@ body {
     height: 40px;
     background-color: #8E24AA
 }
-
+a:hover{
+    background-color: #8E24AA !important;
+}
+a{
+    border: 1px solid #8E24AA !important;
+    color: #8E24AA;
+}
 .buttons button:nth-child(2) {
     border: 1px solid #8E24AA !important;
     background-color: #8E24AA;

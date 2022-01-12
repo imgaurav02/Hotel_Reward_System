@@ -30,6 +30,7 @@
 
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+    
   </head>
   <body>
     <div class="container">
@@ -48,8 +49,9 @@
             <input type="submit" name="add_user" value="Add User">
           </div>
         </form>
+        <a href="./index.php" class="btn btn-primary px-4 ms-3">Go Back</a>
       </div>
     </div>
-
+    
   </body>
 </html>
